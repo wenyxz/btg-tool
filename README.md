@@ -1,2 +1,2 @@
 # Blender To Godot Tool
-Tool for simplify workflow between blender and godot.
+A tool to simplify the workflow between Blender and Godot.
