@@ -1,2 +1,2 @@
-# btg-tool
-Tool for simplify workflow between blender and godot.
+# Blender To Godot Tool
+A tool to simplify the workflow between Blender and Godot.
